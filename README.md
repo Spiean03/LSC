@@ -18,9 +18,13 @@ A programmable multi purpose control unit for vacuum systems, such as roughing p
 
 <img src="https://github.com/Spiean03/LSC1/blob/master/IAKTHFIHELIOS/V1.1/Images/WelcomeScreen.png" width="30%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKTHFIHELIOS/V1.1/Images/MainScreen.png" width="30%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKTHFIHELIOS/V1.1/Images/SettingsScreen.png" width="30%">
 
-- 
-
-
+Increased application space for the analysis of materials where specimens must be transported under cryo- and/or ultra-high vacuum conditions. This includes:
+* biological materials, 
+* hydrogen-containing materials or surfaces prone to rapid oxidation
+* Allows transfer of specimens under ultra-high vacuum and cryogenic conditions between different vacuum-controlled systems
+* Direct docking to the standard L-port present on a majority of Thermo Fisher DualBeam™ Systems
+* Vibration free operation, does not compromise the FIB imaging resolution
+* The specimen loading sequence can be applied without software modification using an additional control logic interface
 
 ## IAKGBSYLA - V1 : Software for LSC1 to control Docking Station Glove Box
 

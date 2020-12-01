@@ -33,7 +33,7 @@ Increased application space for the analysis of materials where specimens must b
 
 ## IAKGBSYLA - V1 : Software for LSC1 to control Docking Station Glove Box
 
-<img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_WelcomeScreen.png" width="20%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_MainScreen1.png" width="20%"><img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_MainScreen2.png" width="20%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_SettingsScreen.png" width="20%">
+<img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_WelcomeScreen.png" width="23%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_MainScreen1.png" width="23%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_MainScreen2.png" width="23%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_SettingsScreen.png" width="23%">
 
 * Glove box side panelto DN40-ISO-KF adapter package
 * Gate Valve Series 012 DN40KF Pneumatic actuator, position indicator, solenoid valve double acting, 2x KF 16 side ports

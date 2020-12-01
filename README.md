@@ -26,19 +26,21 @@ Increased application space for the analysis of materials where specimens must b
 * Specimen loading sequence can be applied without software modification using an additional control logic interface
 
 ## IAKGBSYLA - V1 : Software for LSC1 to control Docking Station Glove Box
+V1 - Reduced Version: Venting and Pumping of the Cryo Dock and Load Lock simplified to one task
 
 <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V1.0/Images/V1_WelcomeScreen.png" width="30%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V1.0/Images/V1_MainScreen.png" width="30%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V1.0/Images/V1_SettingsScreen.png" width="30%">
 
-An inert gas glove box can be a central hub for establishing a controlled sample environment transfer between independent analytical instruments. This docking station can be mounted to the side wall of the glovebox. A parking sledge for the UHVCTM on a mechanical support is provided. The docking station includes a programmable controller for vave control and the readout of vacuum gauges.
+An inert gas glove box can be a central hub for establishing a controlled sample environment transfer between independent analytical instruments. This docking station can be mounted to the side wall of the glovebox. A parking sledge for the UHVCTM on a mechanical support is provided. The docking station includes a programmable controller for valve control and the readout of vacuum gauges.
 
-* V1 - Reduced Version: Venting and Pumping of the Cryo Dock and Load Lock simplified to one task
 
 
 ## IAKGBSYLA - V2 : Software for LSC1 to control Docking Station Glove Box
 
+V2 - Extended Version: The Load Lock and Cryo Dock can be controlled independently
+
 <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_WelcomeScreen.png" width="23%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_MainScreen1.png" width="23%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_MainScreen2.png" width="23%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_SettingsScreen.png" width="23%">
 
- * V2 - Extended Version: The Load Lock and Cryo Dock can be controlled independently
+An inert gas glove box can be a central hub for establishing a controlled sample environment transfer between independent analytical instruments. This docking station can be mounted to the side wall of the glovebox. A parking sledge for the UHVCTM on a mechanical support is provided. The docking station includes a programmable controller for valve control and the readout of vacuum gauges.
 
 * Glove box side panel to DN40-ISO-KF adapter package
 * Gate Valve Series 012 DN40KF Pneumatic actuator, position indicator, solenoid valve double acting, 2x KF 16 side ports

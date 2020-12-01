@@ -5,5 +5,5 @@
 
 | Welcome Screen  | Main Screen | Settings |
 | ------------- | ------------- |- ------------ |
-| <img src="https://github.com/Spiean03/LSC1/blob/master/IAKTHFIHELIOS/V1.1/Images/WelcomeScreen.png" width="32%">   |  <img src="https://github.com/Spiean03/LSC1/blob/master/IAKTHFIHELIOS/V1.1/Images/MainScreen.png" width="32%">  | <img src="https://github.com/Spiean03/LSC1/blob/master/IAKTHFIHELIOS/V1.1/Images/SettingsScreen.png" width="32%">|
+| <img src="https://github.com/Spiean03/LSC1/blob/master/IAKTHFIHELIOS/V1.1/Images/WelcomeScreen.png" width="30%">   |  <img src="https://github.com/Spiean03/LSC1/blob/master/IAKTHFIHELIOS/V1.1/Images/MainScreen.png" width="30%">  | <img src="https://github.com/Spiean03/LSC1/blob/master/IAKTHFIHELIOS/V1.1/Images/SettingsScreen.png" width="30%">|
 

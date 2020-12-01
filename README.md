@@ -32,3 +32,15 @@ Increased application space for the analysis of materials where specimens must b
 
 
 ## IAKGBSYLA - V1 : Software for LSC1 to control Docking Station Glove Box
+
+<img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_WelcomeScreen.png" width="20%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_MainScreen1.png" width="20%"><img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_MainScreen2.png" width="20%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_SettingsScreen.png" width="20%">
+
+* Glove box side panelto DN40-ISO-KF adapter package
+* Gate Valve Series 012 DN40KF Pneumatic actuator, position indicator, solenoid valve double acting, 2x KF 16 side ports
+* Angle Valve DN16KF, pneumatic with pos. indicator, solenoid valve, closing spring
+* Venting Valve, Solenoid 24V DC, G1/8'' normally closed
+* TPR 280 Active Line Pirani Gauge DN16 ISO KF
+* UHV Suitcase Support Sledge
+* Mechanical Support Structure for Glove Box
+* Roughing Line Components for  Glove Box Direct Docking Instrument Adaptation
+* Edwards Dry Scroll Vacuum Pump, 103l/min (6.2 m3/h)

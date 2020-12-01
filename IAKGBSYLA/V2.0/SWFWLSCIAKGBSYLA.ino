@@ -3,7 +3,7 @@
     Andreas Spielhofer
     Date: 20.10.2020
     
-    Version: IAKGBSYLA, V1.0, Nov 2020
+    Version: IAKGBSYLA, V2.0, Nov 2020
     Following Libraries are needed for Adafruit 2.2" TFT Breakout Card:
       - Adafruit_GFX
       - Adafruit_ILI9340

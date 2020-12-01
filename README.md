@@ -29,16 +29,21 @@ Increased application space for the analysis of materials where specimens must b
 
 <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V1.0/Images/V1_WelcomeScreen.png" width="30%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V1.0/Images/V1_MainScreen.png" width="30%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V1.0/Images/V1_SettingsScreen.png" width="30%">
 
+An inert gas glove box can be a central hub for establishing a controlled sample environment transfer between independent analytical instruments. This docking station can be mounted to the side wall of the glovebox. A parking sledge for the UHVCTM on a mechanical support is provided. The docking station includes a programmable controller for vave control and the readout of vacuum gauges.
+
+* Reduced Software Version V1: Venting and Pumping of the Cryo Dock and Load Lock simplified to one task; V2 is an extended version where the Load Lock and Cryo Dock can be controlled independently
+
+
 ## IAKGBSYLA - V2 : Software for LSC1 to control Docking Station Glove Box
 
 <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_WelcomeScreen.png" width="23%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_MainScreen1.png" width="23%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_MainScreen2.png" width="23%"> <img src="https://github.com/Spiean03/LSC1/blob/master/IAKGBSYLA/V2.0/Images/V2_SettingsScreen.png" width="23%">
 
-* Glove box side panelto DN40-ISO-KF adapter package
+* Glove box side panel to DN40-ISO-KF adapter package
 * Gate Valve Series 012 DN40KF Pneumatic actuator, position indicator, solenoid valve double acting, 2x KF 16 side ports
 * Angle Valve DN16KF, pneumatic with pos. indicator, solenoid valve, closing spring
 * Venting Valve, Solenoid 24V DC, G1/8'' normally closed
 * TPR 280 Active Line Pirani Gauge DN16 ISO KF
 * UHV Suitcase Support Sledge
 * Mechanical Support Structure for Glove Box
-* Roughing Line Components for  Glove Box Direct Docking Instrument Adaptation
+* Roughing Line Components for Glove Box Direct Docking Instrument Adaptation
 * Edwards Dry Scroll Vacuum Pump, 103l/min (6.2 m3/h)

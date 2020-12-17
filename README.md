@@ -1,4 +1,4 @@
-# LSC1
+# LSC
 
 A programmable multi purpose control unit for vacuum systems, such as roughing pumps, turbo pumps, gate valves, vent valves, temperature kits and pressure gauges. Analogue and digital input channels allow for monitoring temperatures and vacuum levels or readout of safety switches. Several 24V power outputs for direct connection of solenoid valves are provided. Values are displayed on the illuminated LCD screen.
 

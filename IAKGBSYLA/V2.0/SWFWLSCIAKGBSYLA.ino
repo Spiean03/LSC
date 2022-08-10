@@ -1,6 +1,6 @@
 /***********************************************************************
   Programmer:
-    Andreas Spielhofer
+    Name: A.Sp.
     Date: 20.10.2020
     
     Version: IAKGBSYLA, V2.0, Nov 2020

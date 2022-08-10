@@ -1,6 +1,6 @@
 /***********************************************************************
   Programmer:
-    Andreas Spielhofer
+    Name: A. S.
     Date: 20.10.2020
     Version: IAKGBSYLA, V1.0, Nov 2020
     Following Libraries are needed for Adafruit 2.2" TFT Breakout Card:
